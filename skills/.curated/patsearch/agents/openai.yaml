@@ -1,0 +1,4 @@
+interface:
+  display_name: "PatSearch"
+  short_description: "Search patent data via custom API"
+  default_prompt: "Use $patsearch to run a patent query against the configured endpoint and summarize results."
